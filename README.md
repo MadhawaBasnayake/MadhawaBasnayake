@@ -38,28 +38,7 @@
 - Automated systems using Google’s ecosystem  
 - AI-assisted workflow and QR-based apps  
 
----
 
-## 📂 Featured Projects
-
-### 🧼 **Eco-Clean Laundry Management System (C++)**
-Smart file-handling based system with customer, order, and billing modules.
-
-### 🎟️ **Scout Camp Attendance System**
-Modern attendance platform using **QR Code + HTML + JS + Google Apps Script**.
-
-### 🚖 **Tourmate Cab Service System (C++)**
-Modular, file-based academic system with clean interfaces.
-
-### 🛒 **POS & Stock Management System**
-Beautiful HTML UI + Google Sheets backend, barcode scanning, thermal printing.
-
-### 📘 **Sinhala IT Learning Content**
-Complete Sinhala notes for Logic Gates, Linux, Networking basics, and practical activities.
-
-➡️ *More Web + AI + Full-Stack projects coming soon…*
-
----
 
 ## 🏆 Achievements & Highlights
 - ✨ Built multiple end-to-end automated systems  
