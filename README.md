@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Madhawa Basnayake**
 
-<!--
-**MadhawaBasnayake/MadhawaBasnayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Software Engineering Undergraduate*  
+🌐 *Future Full-Stack Engineer | AI/ML Learner | Cloud Enthusiast | Web Developer*  
+🔥 Passionate about building intelligent, scalable, and modern digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Software Engineering Undergraduate  
+- ❤️ Passionate about **Web Development, AI & Machine Learning, Cloud Computing, and Full-Stack Development**  
+- 🌱 Currently learning:  
+  - HTML, CSS, JavaScript  
+  - Python, Java  
+  - Firebase, Google Cloud  
+  - Machine Learning basics  
+- 💡 I love solving real-world problems using automation, clean UI, and smart systems  
+- 🧠 Exploring: Full-stack apps, AI agents, data-driven systems  
+
+---
+
+## 🧰 Tech Stack & Skills
+
+### 💻 **Programming Languages**
+`C++` | `JavaScript` | `Python` | `Java` | `HTML` | `CSS`
+
+### 🛠 **Frameworks / Tools**
+`Git` | `GitHub` | `Firebase` | `Google Apps Script` | `Tailwind CSS` | `Figma`
+
+### ☁️ **Cloud & Backend**
+`Firebase Auth` | `Firestore` | `Realtime DB` | `Google Cloud Tools`
+
+### 🤖 **AI / ML (Learning Stage)**
+`Python ML Basics` | `AI Automation` | `Prompt Engineering`
+
+### ⚡ **Currently Building**
+- Full-stack web applications  
+- Automated systems using Google’s ecosystem  
+- AI-assisted workflow and QR-based apps  
+
+---
+
+## 📂 Featured Projects
+
+### 🧼 **Eco-Clean Laundry Management System (C++)**
+Smart file-handling based system with customer, order, and billing modules.
+
+### 🎟️ **Scout Camp Attendance System**
+Modern attendance platform using **QR Code + HTML + JS + Google Apps Script**.
+
+### 🚖 **Tourmate Cab Service System (C++)**
+Modular, file-based academic system with clean interfaces.
+
+### 🛒 **POS & Stock Management System**
+Beautiful HTML UI + Google Sheets backend, barcode scanning, thermal printing.
+
+### 📘 **Sinhala IT Learning Content**
+Complete Sinhala notes for Logic Gates, Linux, Networking basics, and practical activities.
+
+➡️ *More Web + AI + Full-Stack projects coming soon…*
+
+---
+
+## 🏆 Achievements & Highlights
+- ✨ Built multiple end-to-end automated systems  
+- ✍️ Created Sinhala IT learning notes for students  
+- 🔥 Skilled in QR systems, Google Sheets automation, and Apps Script integrations  
+- 🌟 Active open-source and academic project contributor  
+
+---
+
+## 📬 Connect With Me
+- 📧 Email: **x.madhawa.me@gmail.com**  
+- 🌐 GitHub: **github.com/MadhawaBaznayake**
+
+---
+
+## ⭐ Thank You for Visiting!
+If you like my work, don’t forget to ⭐ my repositories and follow my journey!
