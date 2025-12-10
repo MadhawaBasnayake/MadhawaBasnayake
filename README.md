@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Scalable+Systems;AI+%26+Cloud+Enthusiast;Creator+of+ScoutPass" alt="Typing SVG" />
 </a>
 
-<br><br>
-
-<img src="https://isometric-contributions.vercel.app/api?username=MadhawaBasnayake&theme=gotham&purple_top=true&scale=1" alt="Madhawa's Isometric Contribution Graph">
-
-<br><br>
-
 </div>
 
 ---
