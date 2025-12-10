@@ -4,15 +4,7 @@
 
 ### 🚀 Software Engineering Undergraduate
 
-<br>
 
-<img src="https://isometric-contributions.vercel.app/api?username=MadhawaBasnayake&theme=gotham&purple_top=true&scale=1" alt="Madhawa's Isometric Contribution Graph">
-
-<br><br>
-
-</div>
-
----
 
 ## ⚡ About Me
 
