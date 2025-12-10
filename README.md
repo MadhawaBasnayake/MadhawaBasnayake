@@ -30,27 +30,24 @@
 ### ☁️ **Cloud & Backend**
 `Firebase Auth` | `Firestore` | `Realtime DB` | `Google Cloud Tools`
 
-### 🤖 **AI / ML (Learning Stage)**
-`Python ML Basics` | `AI Automation` | `Prompt Engineering`
+
 
 ### ⚡ **Currently Building**
 - Full-stack web applications  
 - Automated systems using Google’s ecosystem  
-- AI-assisted workflow and QR-based apps  
 
 
 
 ## 🏆 Achievements & Highlights
 - ✨ Built multiple end-to-end automated systems  
 - ✍️ Created Sinhala IT learning notes for students  
-- 🔥 Skilled in QR systems, Google Sheets automation, and Apps Script integrations  
 - 🌟 Active open-source and academic project contributor  
 
 ---
 
 ## 📬 Connect With Me
 - 📧 Email: **x.madhawa.me@gmail.com**  
-- 🌐 GitHub: **github.com/MadhawaBaznayake**
+- 🌐 GitHub: **[github.com/MadhawaBaznayake](https://github.com/MadhawaBasnayake)**
 
 ---
 
