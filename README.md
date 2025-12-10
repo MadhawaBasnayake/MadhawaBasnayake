@@ -1,60 +1,48 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Madhawa+Basnayake;Software+Engineering+Undergraduate;Future+Full-Stack+Engineer;AI%2FML+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+# Madhawa Basnayake
+### 🚀 Software Engineering Undergraduate
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://github.com/MadhawaBasnayake/MadhawaBasnayake/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+
+<br>
+
+## 👨‍💻 About Me
 </div>
 
----
-
-## 🚀 About Me
-- 🎓 Software Engineering Undergraduate  
-- ❤️ Passionate about **Web Development, AI & Machine Learning, Cloud Computing, and Full-Stack Development** - 🌱 Currently learning:  
-  - HTML, CSS, JavaScript  
-  - Python, Java  
-  - Firebase, Google Cloud  
-  - Machine Learning basics  
-- 💡 I love solving real-world problems using automation, clean UI, and smart systems  
-- 🧠 Exploring: Full-stack apps, AI agents, data-driven systems  
-
----
-
-## 🧰 Tech Stack & Skills
-
-### 💻 **Programming Languages**
-`C++` | `JavaScript` | `Python` | `Java` | `HTML` | `CSS`
-
-### 🛠 **Frameworks / Tools**
-`Git` | `GitHub` | `Firebase` | `Google Apps Script` | `Tailwind CSS` | `Figma`
-
-### ☁️ **Cloud & Backend**
-`Firebase Auth` | `Firestore` | `Realtime DB` | `Google Cloud Tools`
-
-### ⚡ **Currently Building**
-- Full-stack web applications  
-- Automated systems using Google’s ecosystem  
-
----
+- 🌱 I’m currently exploring **AI Agents & Google Cloud Architecture**.
+- 💡 I love solving real-world problems using **Automation & Clean UI**.
+- 🎓 Focused on **Software Engineering** & **Data-Driven Systems**.
 
 <div align="center">
-  <h2>🐍 My Contribution Snake</h2>
-  <img src="https://github.com/MadhawaBasnayake/MadhawaBasnayake/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
----
+<br>
 
-## 🏆 Achievements & Highlights
-- ✨ Built multiple end-to-end automated systems  
-- ✍️ Created Sinhala IT learning notes for students  
-- 🌟 Active open-source and academic project contributor  
+## 🛠️ Tech Stack & Arsenal
 
----
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## 📬 Connect With Me
-- 📧 Email: **x.madhawa.me@gmail.com** - 🌐 GitHub: **[github.com/MadhawaBasnayake](https://github.com/MadhawaBasnayake)**
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+<br><br>
 
-<div align="center">
-⭐ <b>Thank You for Visiting!</b><br>
-If you like my work, don’t forget to ⭐ my repositories and follow my journey!
+## 📬 Let's Connect
+
+[![](https://img.shields.io/badge/Email-x.madhawa.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x.madhawa.me@gmail.com)
+[![](https://img.shields.io/badge/GitHub-MadhawaBasnayake-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhawaBasnayake)
+
+<br>
+
+<i>⭐ Designed with passion by Madhawa</i>
+
 </div>
