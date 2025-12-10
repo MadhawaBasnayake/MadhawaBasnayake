@@ -22,13 +22,11 @@
 
 I'm passionate about engineering intelligent digital experiences. I love turning complex problems into simple, automated, and elegant solutions.
 
-🧠 Exploring AI Agents, Google Cloud Serverless Architecture, and intelligent automation workflows.
-🎓 Exploring data-driven systems and modern web technologies.
-🧩 Learning how to design scalable system architectures and real-world problem–solving solutions.
-⚙️ Experimenting with API integrations, cloud functions, and micro-service style components.
-📊 Getting hands-on with analytics, dashboards, and real-time data processing.
-🧪 Building prototypes to improve performance, automation, and user experience.
+- 🔭 Currently focusing on **ScoutPass** (Digital Command Center).
+- 🧠 Exploring **AI Agents** and **Google Cloud Serverless Architecture**.
+- 🎓 Exploring data-driven systems and modern web technologies.
 
+---
 
 ## 🛠️ The Arsenal (Tech Stack)
 
