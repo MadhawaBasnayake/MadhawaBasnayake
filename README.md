@@ -4,9 +4,11 @@
 
 ### 🚀 Software Engineering Undergraduate
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Scalable+Systems;AI+%26+Cloud+Enthusiast;Creator+of+ScoutPass" alt="Typing SVG" />
-</a>
+<br>
+
+<img src="https://isometric-contributions.vercel.app/api?username=MadhawaBasnayake&theme=gotham&purple_top=true&scale=1" alt="Madhawa's Isometric Contribution Graph">
+
+<br><br>
 
 </div>
 
@@ -14,11 +16,14 @@
 
 ## ⚡ About Me
 
-I'm passionate about engineering intelligent digital experiences. I love turning complex problems into simple, automated, and elegant solutions.
+I am a tech enthusiast passionate about engineering intelligent digital experiences. I focus on building systems that are not just functional, but scalable and user-friendly.
 
-- 🔭 Currently focusing on **ScoutPass** (Digital Command Center).
-- 🧠 Exploring **AI Agents** and **Google Cloud Serverless Architecture**.
-- 🎓 Exploring data-driven systems and modern web technologies.
+- 🔭 I’m currently building **ScoutPass** (Digital Command Center for Events).
+- 🌱 I’m currently exploring **AI Agents** & **Serverless Cloud Architecture**.
+- 💡 I love solving real-world problems using **Process Automation** & **Clean UI**.
+- 🎓 Focused on **Software Engineering**, **Data Structures**, and **Algorithms**.
+- 🤝 I’m looking to collaborate on **Open Source Projects** and **SaaS Applications**.
+- 🛠️ I enjoy building **Automated Workflows** to streamline daily tasks.
 
 ---
 
@@ -45,7 +50,7 @@ I'm passionate about engineering intelligent digital experiences. I love turning
 [![GitHub](https://img.shields.io/badge/GitHub-MadhawaBasnayake-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhawaBasnayake)
 
 <br>
-<i>"Simplicity is the soul of efficiency."</i>
+<i>"Simplicity is the ultimate sophistication."</i>
 <br><br>
 
 </div>
