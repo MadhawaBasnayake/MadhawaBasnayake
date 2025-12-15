@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Madhawa Basnayake
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Madhawa Basnayake 
 
 ### 🚀 Software Engineering Undergraduate
 
